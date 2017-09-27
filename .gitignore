@@ -1,3 +1,6 @@
+# ignore kaggle-cli config
+.kaggle-cli 
+
 # ignore feather files and zips
 *.f
 *.zip
